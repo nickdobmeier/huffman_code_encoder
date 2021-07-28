@@ -1,5 +1,4 @@
 // Nick Dobmeier
-// CS 4349 HW6
 
 #include <string>
 #include <iostream>
